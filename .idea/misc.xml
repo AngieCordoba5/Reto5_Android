@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1125" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1125" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/act_form_sucursales.xml" value="0.1" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_form.xml" value="0.33" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_form_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_form_servicios.xml" value="0.33" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_show_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_splash.xml" value="0.18" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/activity_sucursales.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/content_main.xml" value="0.10869565217391304" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/fragment_productos.xml" value="0.10869565217391304" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/fragment_servicios.xml" value="0.25" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/fragment_sucursales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/item_sucursales.xml" value="0.18478260869565216" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Carolina/AndroidStudioProjects/Reto3/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

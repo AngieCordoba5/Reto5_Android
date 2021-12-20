@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#E4FFE0"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.sucursales.SucursalesFragment">
+
+    <ProgressBar
+        android:id="@+id/progressBar_suc"
+        android:background="#E4FFE0"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <GridView
+        android:id="@+id/gridSucursales2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E4FFE0"
+        android:numColumns="1" />
+
+</LinearLayout>
